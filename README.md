@@ -1,4 +1,4 @@
-# Glichester en GitHub
+# Glichzard en GitHub
 
 Mi nombre es Guillermo Martin. Soy un entusiasta de la programación con amplia experiencia en el desarrollo de aplicaciones web mediante el uso de lenguajes como JavaScript y PHP. Mi enfoque se centra en la creación de soluciones sólidas y escalables, especialmente en lo que respecta a bases de datos relacionales como MySQL y MariaDB.
 ## Acerca de mí
@@ -16,7 +16,7 @@ En mi repositorio de GitHub, encontrarás una variedad de proyectos relacionados
 
 ¡Estoy emocionado por la colaboración y la interacción con otros desarrolladores! No dudes en contactarme o colaborar en cualquiera de mis proyectos.
 
-- GitHub: [github.com/Glichester](https://github.com/Glichester)
+- GitHub: [github.com/Glichzard](https://github.com/Glichzard)
 - LinkedIn: [linkedin.com/in/glichester](https://www.linkedin.com/in/glichester/)
 
 ¡Espero que encuentres útiles mis proyectos y que podamos colaborar juntos en el emocionante mundo del desarrollo web!
